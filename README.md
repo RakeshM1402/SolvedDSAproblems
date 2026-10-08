@@ -11,4 +11,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/RakeshM1402/SolvedDSAproblems/tree/main/0027-remove-element/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/RakeshM1402/SolvedDSAproblems/tree/main/Python/Easy/1768-merge-strings-alternately/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/RakeshM1402/SolvedDSAproblems/tree/main/Python/Easy/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->
