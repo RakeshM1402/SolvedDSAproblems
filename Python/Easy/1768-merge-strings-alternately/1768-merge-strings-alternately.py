@@ -13,5 +13,5 @@ class Solution(object):
                 j += 1
 
             length -= 1
-        return final
+        return final 
         
