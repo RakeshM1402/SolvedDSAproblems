@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/RakeshM1402/SolvedDSAproblems/tree/main/0027-remove-element/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/RakeshM1402/SolvedDSAproblems/tree/main/Python/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
