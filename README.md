@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/RakeshM1402/SolvedDSAproblems/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/RakeshM1402/SolvedDSAproblems/tree/main/0027-remove-element/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RakeshM1402/SolvedDSAproblems/tree/main/Python/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Two Pointers
@@ -16,5 +17,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/RakeshM1402/SolvedDSAproblems/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/RakeshM1402/SolvedDSAproblems/tree/main/Python/Easy/1768-merge-strings-alternately/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/RakeshM1402/SolvedDSAproblems/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
